@@ -1,0 +1,27 @@
+/*=Theme
+-----------------------------------------------------------*/
+// main theme styles here
+
+body {
+  background-color: $whiteSmoke; 
+  }
+
+// Colors
+$font-color: $grayAsh;
+$link-color: $grayCharcoal;
+$link-color-hover: adjust-hue($link-color, -240);
+
+// Font
+$base-font-size: 16;
+$base-line-height: 24;
+$monospace: monaco, consolas, menlo, monospace;  
+
+/* 89yelser */
+.theme-base-89yesler .sidebar {
+  background-color: $whiteEggshell;
+}
+.theme-base-89yesler .content a,
+.theme-base-89yesler .related-posts li a:hover {
+  color: ￼￼￼#000;
+}
+

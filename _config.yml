@@ -1,0 +1,4 @@
+name: Scott Soderstrom - 89yesler Blog
+markdown: redcarpet
+highlighter: true
+exclude: ['node_modules', 'scss', 'custom-config.js', 'config.rb', 'gulpfile.js', 'package.json']
