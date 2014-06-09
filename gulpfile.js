@@ -62,7 +62,7 @@ var customConfig = require('./custom-config'),
 var config = {
     serverHost : serverHost,
     serverPort : serverPort,
-    webpEnable : false,
+    webpEnable : true,
     tinypng : tinypngApiKey // https://tinypng.com/developers
 };
 
